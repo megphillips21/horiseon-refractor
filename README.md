@@ -1,12 +1,21 @@
-# horiseon-refractor
-Update website for accessibility and functionality 
-Things I have done and need to remember
-Updated the the id for search engine optimazation div so the nav worked.
+# Horiseon Website Update
+Landing page for a social media marketing company named Horiseon
 
-Added favicon for browser tab. Used provided image as place holder for preferred image.
 
-updated alts for all images. those included descriptions for the main photos, and empty alts for decorative images.
+## Updates to HTML
 
-combined the bebefits-lead, benefits-awareness, and benefits-management to prevent duplicate code on the style sheet by adding benefit-section class. 
+* Update HTML code for accessibility and functionality 
+    * Corrected class ID issue so navigation links worked    properly
+    * Added favicon for browser tab. Used provided image as  place holder for preferred image.
+    * Added alt elements for all images 
+    * Changed div sections to more appropriate semantic HTML elements such as Header and footer.
 
-created content-img and content- section classes to consolidate duplicate styling for div in section. 
+## Updates to CSS
+
+* Consolidated CSS class selectors and removed duplicate code
+* Created new class selectors for content sections
+
+### Screenshot of Hero image and navigation header
+![hero screenshot](./assets/images/hero-screenshot.jpg)
+
+Website url https://megphillips21.github.io/horiseon-refractor/
