@@ -16,6 +16,6 @@ Landing page for a social media marketing company named Horiseon
 * Created new class selectors for content sections
 
 ### Screenshot of Hero image and navigation header
-![hero screenshot](C:\Users\17609\Dropbox\PC (2)\Desktop\projects\horiseon-refractor\assets\images)
+![hero screenshot](https://github.com/megphillips21/horiseon-refractor/blob/main/assets/images/Hero-screenshot.JPG)
 
 Website url https://megphillips21.github.io/horiseon-refractor/
